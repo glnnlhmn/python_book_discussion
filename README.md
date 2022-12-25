@@ -1,7 +1,7 @@
 # Boston Python
 ## Book Discussion
 
-Central Repository for information developed as part of the Boston Python Book Discussion.
+Central Repository for information developed as part of the [Boston Python](https://about.bostonpython.com/) Book Discussion.
 
 ## Repo Index
 

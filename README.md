@@ -1,2 +1,10 @@
-# python_book_discussion
-Central Repository for coding developed as part of the Boston Python Book Discussion.
+# Boston Python
+## Book Discussion
+
+Central Repository for information developed as part of the Boston Python Book Discussion.
+
+## Repo Index
+
+| Book                      | Author | Repo Link |
+|---------------------------|--------|-----------|
+| Fluent Python 2nd Edition | Luciano Ramalho | [Link](https://github.com/glnnlhmn/python_book_discussion/tree/main/fluent_python) |

@@ -15,7 +15,7 @@ In January of 2023 Boston Python under took a discussion of this book. Since Flu
 
 This repository will contain links code fragements and other resources found useful during the discussion of the material. It is hoped that these notes, links, and code will be useful to any individual exploring the repository. For clarity this document was put together in the form of a journal to document our discovery process. 
 
-# Data Structures
+## Data Structures
 
 The initial discusion will cover *Data Structures* which run from Pages 1 through 227.  This part of the book is seperated into the following chapters:
 

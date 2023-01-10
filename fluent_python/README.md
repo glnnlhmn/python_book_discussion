@@ -31,3 +31,7 @@ The initial discusion will cover *Data Structures* which run from Pages 1 throug
 
 6. Objective References, Mutability, and Recycling
 
+# Contributing Guidelines
+
+Contributing is encouraged! Check out the [specific guidelines](https://github.com/glnnlhmn/python_book_discussion/blob/main/fluent_python/CONTRIBUTING.md)
+

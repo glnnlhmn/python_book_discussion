@@ -19,7 +19,7 @@ This repository will contain links code fragements and other resources found use
 
 The initial discusion will cover *Data Structures* which run from Pages 1 through 227.  This part of the book is seperated into the following chapters:
 
-1. The Python Data Model
+1. The [Python Data Model](https://github.com/glnnlhmn/python_book_discussion/tree/main/fluent_python/python_data_model)
 
 2. An Array of Sequences
 

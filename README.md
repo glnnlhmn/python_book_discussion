@@ -8,3 +8,5 @@ Central Repository for information developed as part of the [Boston Python](http
 | Book                      | Author | Repo Link |
 |---------------------------|--------|-----------|
 | Fluent Python 2nd Edition | Luciano Ramalho | [Link](https://github.com/glnnlhmn/python_book_discussion/tree/main/fluent_python) |
+
+Companion book: https://www.fluentpython.com
